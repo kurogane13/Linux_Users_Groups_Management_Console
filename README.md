@@ -6,7 +6,7 @@ CLI based interactive terminal (bash program), for users and groups management i
 NOTE: To view the program screenshots, access the Screenshots folder
 -----------------------------------------------------------------------------------------------------------------------
 
-*Author: Gustavo Wydler Azuaga - 15-02-2020
+Author: Gustavo Wydler Azuaga - 02-15-2020
 -----------------------------------------------------------------------------------------------------------------------
 
 Setup and running the program:
