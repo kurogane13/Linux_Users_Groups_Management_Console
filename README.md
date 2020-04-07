@@ -13,7 +13,7 @@ Setup and running the program:
 
 ADVANTAGE: Requires no installation!
 
-* Clone the repo (from terminal with wget )
+* Clone the repo (from terminal with git clone )
 
 * Access the folder and run the linux_user_groups_management_console.sh. --> Bash linux_user_groups_management_console.sh
 
