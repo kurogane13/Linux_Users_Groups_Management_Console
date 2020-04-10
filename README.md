@@ -17,7 +17,7 @@ ADVANTAGE: Requires no installation!
 
 * Rename Linux_Users_Groups_Management_Console to Linux_user_groups_management_console 
 
- * mv Linux_Users_Groups_Management_Console Linux_user_groups_management_console
+  - mv Linux_Users_Groups_Management_Console Linux_user_groups_management_console
 
 * Access the folder and run the linux_user_groups_management_console.sh. --> Bash linux_user_groups_management_console.sh
 
